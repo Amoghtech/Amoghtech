@@ -8,10 +8,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Football
 
-### Spotify Playing 🎧
-
-
-[<img src="https://now-playing-probablyamogh.vercel.app/api/spotify-playing" alt="probablyamogh Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
