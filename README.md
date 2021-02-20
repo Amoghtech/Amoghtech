@@ -6,7 +6,7 @@
 - 🌱 I’m currently MERN stack , DSA 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Football
+- ⚡ Fun fact: I thought that i'm funny, LOL!
 
 
 ### Connect with me:
@@ -30,19 +30,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Amoghtech/Amoghtech-vscode-theme/issues/3) in [Amoghtech/Amoghtech-vscode-theme](https://github.com/Amoghtech/Amoghtech-vscode-theme)
-2. 🎉 Merged PR [#8](https://github.com/Amoghtech/Amoghtech-vscode-theme/pull/8) in [Amoghtech/Amoghtech-vscode-theme](https://github.com/Amoghtech/Amoghtech-vscode-theme)
-3. 🗣 Commented on [#7](https://github.com/Amoghtech/free-developer-resources/issues/7) in [Amoghtech/free-developer-resources](https://github.com/Amoghtech/free-developer-resources)
-4. 🗣 Commented on [#6](https://github.com/Amoghtech/free-developer-resources/issues/6) in [Amoghtech/free-developer-resources](https://github.com/Amoghtech/free-developer-resources)
-5. 🎉 Merged PR [#6](https://github.com/Amoghtech/free-developer-resources/pull/6) in [Amoghtech/free-developer-resources](https://github.com/Amoghtech/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
