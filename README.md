@@ -3,7 +3,7 @@
 
 ## I'm a Student  !!
 
-- 🌱 I’m currently MERN stack , DSA 🤣
+- 🌱 I’m currently MERN stack , DSA 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Football
@@ -47,7 +47,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Amoghtech's GitHub Stats" src="https://github-readme-stats.Amoghtech.vercel.app/api?username=Amoghtech&show_icons=true&hide_border=true" />
+  <img align="left" alt="Amoghtech's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Amoghtech&show_icons=true&hide_border=true" />
 
 </details>
 
