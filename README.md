@@ -1,20 +1,19 @@
-### Hi there, I'm Amogh Nagar  👋
+### Hi there, I'm Amogh Nagar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+## I'm a Student !!
 
-## I'm a Student  !!
-
-- 🌱 I’m currently MERN stack , DSA 
+- 🌱 I’m currently MERN stack , DSA
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I think that i'm funny, LOL!
 
-
 ### Connect with me:
 
-[<img align="left" alt="probablyamogh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="probablyamogh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="probablyamogh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://discord.gg/probablyamogh">
+  <img align="left" alt="Amogh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 
+<a href="https://www.linkedin.com/in/amogh-nagar-09ab341ab/">
+  <img align="left" alt="Amogh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 <br />
 
 ### Languages and Tools:
@@ -27,9 +26,30 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
+
+---
+
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
 <br />
 
 ---
+
+ <img align="right" alt="GIF" src="https://github.com/Amoghtech/Amoghtech/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
+<br />
+
+📊 **This Week I Spent My Time On:**
+
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   11 hrs 44 mins  ██████████████▒░░░░░░░░░░   57.57 %
+CSS          3 hrs 56 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
+C++          2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+JSON         1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Other        37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+```
 
 <details>
   <summary>:zap: GitHub Stats</summary>
