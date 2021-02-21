@@ -6,7 +6,7 @@
 - 🌱 I’m currently MERN stack , DSA 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I thought that i'm funny, LOL!
+- ⚡ Fun fact: I think that i'm funny, LOL!
 
 
 ### Connect with me:
