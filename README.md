@@ -29,27 +29,16 @@
 
 ---
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=Amoghtech.Amoghtech)
 
 <br />
 
 ---
 
- <img align="right" alt="GIF" src="https://github.com/Amoghtech/Amoghtech/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/Amoghtech/Amoghtech/master/code.gif?raw=true" width="500" height="320" />
  
 <br />
 
-📊 **This Week I Spent My Time On:**
-
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   11 hrs 44 mins  ██████████████▒░░░░░░░░░░   57.57 %
-CSS          3 hrs 56 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.28 %
-C++          2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-JSON         1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-Other        37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-```
 
 <details>
   <summary>:zap: GitHub Stats</summary>
