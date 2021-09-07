@@ -1,11 +1,22 @@
 ### Hi there, I'm Amogh Nagar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
+
+
 ## I'm a Student !!
 
 - 🌱 I’m currently learning MERN stack , React Native and DSA
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I think that i'm funny, LOL!
+
+
+### My stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amoghtech&show_icons=true&theme=jolly" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amoghtech&theme=jolly" />
+</p>
 
 ### Connect with me:
 
@@ -27,9 +38,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" />
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cplusplus/cplusplus.png" />
   
 <br />
 
