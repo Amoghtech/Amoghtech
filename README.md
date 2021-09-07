@@ -5,10 +5,9 @@
 
 ## I'm a Student !!
 
-- 🌱 I’m currently learning MERN stack , React Native and DSA
+- 🌱 I’m currently learning Flutter and DSA
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I think that i'm funny, LOL!
 
 
 ### My stats
