@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 
-<img src="./Stats.png"/>
+<img src="Stats.png"/>
 
 ### My stats
 
