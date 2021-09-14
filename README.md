@@ -47,6 +47,11 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Amoghtech.Amoghtech)
 
+
+<br/>
+
+[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Amoghtech&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+  
 <br />
 
 ---
