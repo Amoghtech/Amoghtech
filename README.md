@@ -15,9 +15,10 @@
 ### My stats
 
 <p  align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amoghtech&show_icons=true&theme=jolly" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amoghtech&theme=jolly" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amoghtech&show_icons=true&locale=en&layout=compact&theme=jolly" alt="amoghtech" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amoghtech&show_icons=true&theme=midnight-purple" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amoghtech&theme=midnight-purple" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amoghtech&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="amoghtech" />
+
 </p>
 
 ---
@@ -32,9 +33,10 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Amoghtech.Amoghtech)
 
 ---
-<br/>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amoghtech&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Amoghtech&bg_color=000000&color=5834eb&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+[![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Amoghtech&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
 
