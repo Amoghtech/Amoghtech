@@ -2,16 +2,16 @@
 
 ## I'm a Student !!
 
-- 🌱 I’m currently learning Flutter and DSA
+- 🌱 I’m currently learning Flutter and practicing CP
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ---
 
 <img src="Stats.png"/>
 
 ---
+
 ### My stats
 
 <p  align="center">
@@ -33,9 +33,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Amoghtech.Amoghtech)
 
 ---
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Amoghtech&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
 [![Amogh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Amoghtech&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br />
